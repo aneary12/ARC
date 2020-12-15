@@ -9,6 +9,10 @@ A complete description of the dataset, its goals, and its underlying logic, can 
 As a reminder, a test-taker is said to solve a task when, upon seeing the task for the first time, they are able to produce the correct output grid for *all* test inputs in the task (this includes picking the dimensions of the output grid). For each test input, the test-taker is allowed 3 trials (this holds for all test-takers, either humans or AI).
 
 
+## Purpose of this repository
+
+This repository is being used to complete an assignment for a module provided by the National University of Ireland, Galway (NUIG). I am a PhD student in NUIG undertaking the "Programming and Tools for AI" module (CT5132). The assignment for this module required functions to be written to solve three or more tasks. Jupyter notebooks showing my solutions for three tasks, are included in the folder 'Jupyter Notebooks'. My submission file manual_solve.py is located in the src folder.
+
 ## Task file format
 
 The `data` directory contains two subdirectories:
